@@ -1,0 +1,23 @@
+# Local data cache and secrets
+data/
+.env
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+# R and rendering artifacts
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+.quarto/
+*_cache/
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
